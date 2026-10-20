@@ -1,0 +1,6 @@
+{
+  "name": "PE Header Inspector",
+  "description": "Inspect, parse, and analyze Windows PE executable headers directly from any URL, file, or sample.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
